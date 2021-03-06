@@ -1,0 +1,6 @@
+                                ALGORITHM
+          _________________________________________________________
+
+1.create folder structure what is required (done)
+2.create a form using html,css,js,bootstrap in react js
+3.connect database to frontend

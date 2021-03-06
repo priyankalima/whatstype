@@ -1,0 +1,28 @@
+                               DATA STRUCTURE
+            _______________________________________________________________
+
+node modules
+public|-------- index.html
+      |-------- favion
+      |-------- logo.png
+
+src|----------- compoponets
+   |----------- assets
+   |----------- styles
+   |----------- container
+   |----------- services|---------action.js
+                        |---------constants.js
+                        |---------reducer.js
+                        |--------- rootReducer.js
+   |----------- App.js
+   |----------- index.js
+   |----------- server.js
+   |----------- db.js
+
+package.json
+others|--------- algo.txt
+      |--------- ds.txt
+      |--------- arch.txt
+      |--------- tools.txt
+
+README.md
